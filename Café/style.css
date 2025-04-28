@@ -1,0 +1,27 @@
+img {
+    width: 200px;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#caseiro{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    
+}
+
+#cardapio {
+    margin-top: 40px;
+}
+#p {
+    text-align: center;
+}
+#cap {
+    width: 150px;
+    margin-left: 090px;
+    margin-top: 30px;
+}
